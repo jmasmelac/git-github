@@ -32,7 +32,7 @@ Puedes verla [aquí](/API_Python/).
 
 Un paquete muy simple de PIP que servirá para crear un artefacto. ¿Te imaginas publicando tu primer paquete PIP?
 
-Todos los archivos preconstruidos están ya cargados en este repo, sin embargo los únicos dos que necesitas son **setup.py** y el contenido de la carpeta **mi_paquete**, todo lo demás lo puedes borrar.
+Todos los archivos pre construidos están ya cargados en este repo, sin embargo los únicos dos que necesitas son **setup.py** y el contenido de la carpeta **mi_paquete**, todo lo demás lo puedes borrar.
 
 Modifica **setup.py** con tu propia información.
 
